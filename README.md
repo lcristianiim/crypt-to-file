@@ -1,5 +1,5 @@
-<!--- Encrytion arguments: --->
-<!--- password file text --->
+Encrytion arguments:
+password file text
 
-<!--- Decryption arguments: --->
-<!--- password file --->
+Decryption arguments:
+password file
