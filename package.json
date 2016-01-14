@@ -1,0 +1,11 @@
+{
+  "name": "crypt-to-file",
+  "version": "1.0.0",
+  "description": "A simple CLI module that stores encrypted string into a file and reads the string from the file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szabo Cristian",
+  "license": "ISC"
+}
